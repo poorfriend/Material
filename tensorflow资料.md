@@ -1,1 +1,2 @@
 - [TensorFlow代码优化技巧](https://github.com/beopst/tf-performance-tips)
+- [TensorFlow大规模机器学习](https://www.matroid.com/scaledml/2017/jeff.pdf)
