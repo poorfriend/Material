@@ -1,0 +1,2 @@
+- [Convolutional Sequence to Sequence Learning](https://s3.amazonaws.com/fairseq/papers/convolutional-sequence-to-sequence-learning.pdf)[[code]](https://github.com/facebookresearch/fairseq)
+- [A novel approach to neural machine translation | Engineering Blog | Facebook Code]()
