@@ -1,2 +1,3 @@
 - [Convolutional Sequence to Sequence Learning](https://s3.amazonaws.com/fairseq/papers/convolutional-sequence-to-sequence-learning.pdf)[[code]](https://github.com/facebookresearch/fairseq)
 - [A novel approach to neural machine translation | Engineering Blog | Facebook Code]()
+- [如何评价 Facebook 新推出的 CNN 机器翻译项目 Fairseq?](https://www.zhihu.com/question/59645329)
