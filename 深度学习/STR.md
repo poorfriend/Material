@@ -3,3 +3,4 @@
 
 ## 资料
 - [(MXNet)SSD文本检测](https://github.com/oyxhust/ssd-text_detection)
+- [ctpn+crnn场景文字识别](https://github.com/bear63/sceneReco)
