@@ -1,0 +1,1 @@
+- [mxnet如何从python调用cpp](https://github.com/yajiedesign/mxnet/wiki/mxnet%E5%A6%82%E4%BD%95%E4%BB%8Epython%E8%B0%83%E7%94%A8cpp%3F)
